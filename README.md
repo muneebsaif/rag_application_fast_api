@@ -1,2 +1,2 @@
-# rag_application_fast_api
-simple rag application for cisco live
+# Server_RAG_Application
+Rag application which will run on server and be accessible with the help of APIs.
